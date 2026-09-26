@@ -1,0 +1,11 @@
+{
+    "evaluated_movies": 100,
+    "catalog_size": 4803,
+    "top_k": 5,
+    "average_similarity": 0.0628,
+    "catalog_coverage": 0.0933,
+    "average_diversity": 0.9662,
+    "correctness_rate": 1.0,
+    "unique_recommended_movies": 448,
+    "evaluated_at": "2026-09-26T06:35:04.132660+00:00"
+}
